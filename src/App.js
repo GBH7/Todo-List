@@ -33,6 +33,7 @@ function App() {
             <li key={index}>{item}</li> //props를 넣으라는 에러가 떠서 넣음.
           ))}
         </ul>
+        <hr />
     </div>
   );
 }
